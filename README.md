@@ -1,5 +1,3 @@
 # forth
 jjkj
 ;;kk
-.,
-nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
